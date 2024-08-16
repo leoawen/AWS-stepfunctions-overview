@@ -25,3 +25,24 @@ Orquestração sem servidor (serverless) para aplicações modernas significa:
 8. Alta disponibilidade: Oferece alta disponibilidade e tolerância a falhas sem configuração adicional.
 
 Esta abordagem permite que as empresas construam e operem aplicações de forma mais ágil, eficiente e econômica, focando nos resultados de negócios em vez da gestão de infraestrutura.
+
+Benefícios do Step Functions
+---
+### Integração rápida
+
+[Comece a criar rapidamente usando o Workflow Studio, uma interface simples com o recurso de arrastar e soltar para expressar lógicas de negócios complexas.](https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-workflow-studio-using.html)
+
+### Automação simples
+
+[Automatize fluxos de trabalho em mais de 220 produtos da AWS sem a necessidade de manutenção do código.](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-service-integrations.html)
+
+### Processar dados sob demanda
+
+[Use código para processar dados sob demanda com fluxos de trabalho paralelos de grande escala](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-orchestrate-large-scale-parallel-workloads.html)
+
+### Visualização da arquitetura orientada por eventos
+
+[Visualize e desenvolva fluxos de trabalho flexíveis para arquiteturas orientadas a eventos.](https://aws.amazon.com/blogs/containers/run-event-driven-workflows-with-amazon-eks-and-aws-step-functions/)
+
+
+
