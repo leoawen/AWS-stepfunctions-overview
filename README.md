@@ -44,5 +44,10 @@ Benefícios do Step Functions
 
 [Visualize e desenvolva fluxos de trabalho flexíveis para arquiteturas orientadas a eventos.](https://aws.amazon.com/blogs/containers/run-event-driven-workflows-with-amazon-eks-and-aws-step-functions/)
 
+### Como funciona
+O Step Functions é um serviço de fluxo de trabalho visual que ajuda os desenvolvedores a usar os produtos da AWS para desenvolver aplicações distribuídas, automatizar processos, orquestrar microsserviços e criar pipelines de dados e machine learning (ML).
+
+
+
 
 
