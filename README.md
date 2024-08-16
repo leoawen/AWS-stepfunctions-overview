@@ -12,3 +12,16 @@ O AWS Step Functions é uma solução de orquestração serverless para aplicaç
 7. Torna as aplicações mais rápidas de escrever e mais fáceis de manter.
 
 Assim, o AWS Step Functions visa acelerar e simplificar o processo de desenvolvimento de aplicações distribuídas, oferecendo uma solução robusta para gerenciamento de fluxos de trabalho complexos.
+
+Orquestração sem servidor (serverless) para aplicações modernas significa:
+---
+1. Gerenciamento automático de infraestrutura: A Amazon gerencia toda a infraestrutura subjacente, eliminando a necessidade de provisionar, manter ou escalar servidores.
+2. Escalabilidade automática: O serviço escala automaticamente para lidar com a carga de trabalho, sem intervenção manual.
+3. Pagamento por uso: Os custos são baseados apenas nos recursos realmente utilizados, sem necessidade de pagar por capacidade ociosa.
+4. Foco no código: Desenvolvedores podem se concentrar na lógica da aplicação, em vez de se preocupar com a gestão de servidores.
+5. Coordenação de componentes: Permite coordenar diferentes partes de uma aplicação distribuída de forma eficiente.
+6. Abstração de complexidade: Simplifica o gerenciamento de fluxos de trabalho complexos, ocultando detalhes de implementação de baixo nível.
+7. Integração com outros serviços: Facilita a integração com outros serviços AWS e componentes da aplicação.
+8. Alta disponibilidade: Oferece alta disponibilidade e tolerância a falhas sem configuração adicional.
+
+Esta abordagem permite que as empresas construam e operem aplicações de forma mais ágil, eficiente e econômica, focando nos resultados de negócios em vez da gestão de infraestrutura.
