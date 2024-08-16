@@ -47,6 +47,8 @@ Benefícios do Step Functions
 ### Como funciona
 O Step Functions é um serviço de fluxo de trabalho visual que ajuda os desenvolvedores a usar os produtos da AWS para desenvolver aplicações distribuídas, automatizar processos, orquestrar microsserviços e criar pipelines de dados e machine learning (ML).
 
+![[AWS Step Functions Workflow.png]]
+
 
 
 
